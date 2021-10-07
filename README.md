@@ -10,7 +10,7 @@ the paper "Perspective-taking to Reduce Affective Polarization on Social Media"
 published in the proceedings of International AAAI Conference on Web and Social Media (ICWSM '22).
 
 ## Supplementary material
-The supplementary materials can be found in [`supplementary-material.pdf`](https://github.com/msaveski/twitter_perspective_taking/raw/main/supplementary-material.pdf).
+The supplementary materials can be found in [`supplementary-material.pdf`](https://github.com/msaveski/twitter_perspective_taking/blob/main/supplementary-material.pdf).
 
 It contains the following:
 - A description and justification of the mixed-effects linear models used for the main analyses,
