@@ -16,8 +16,7 @@ It contains the following:
 - A description and justification of the mixed-effects linear models used for the main analyses,
 - Checks for the robustness of results across different model specifications,
 - Checks for covariate balance to ensure randomized treatment assignment worked as intended,
-- An analysis of results accounting for selective attrition in post-survey completions,
-- Additional details about ethical considerations and protection of human subjects.
+- An analysis of results accounting for selective attrition in post-survey completions.
 
 ## Code guide
 - `models_simple.R`: Fits `lmer` and `brms` models, using the two treatments (`feed=opposite` and `prompt=empathic`) with and without an interaction term.
